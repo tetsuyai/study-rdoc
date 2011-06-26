@@ -1,0 +1,26 @@
+# = Sample RDoc Document -- How to write RDoc
+#
+# == DESCRIPTION
+# ここに簡単な紹介を記述します。
+#
+# == SYNOPSIS
+# ここに概要を記述します。
+#
+# == USAGE
+# ここに使用方法を記述します。
+#
+# == AUTHOR
+# Tetsuya Imamura, Unlimited Works
+#
+# == COPYRIGHT
+# Copyright (c) 2010-2011 Tetsuya Imamura
+#
+# == CONTACT
+# If you find a bug, please report it at my e-mail.
+#   mail@tetsuyai.com
+#
+# == LICENSE
+# ここにライセンス条項を記述します。
+# Sample RDoc Document is available under an MIT-style license.
+#
+# :include: MIT-LICENSE
